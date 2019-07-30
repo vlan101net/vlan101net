@@ -20,7 +20,7 @@ title: vlan101.net
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus:
+disqus: vlan101net
 
 # Uncomment if deployed locally
 #url: https://localhost:4000
@@ -38,7 +38,7 @@ baseurl:
 google_analytics: UA-60428555-1
 
 # Contact form pupublic key
-contact_PK:
+contact_PK: 9851e4fabdfddb61395663c286683a53
 
 ##########################################
 #          Optional variables
