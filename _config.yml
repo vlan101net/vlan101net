@@ -4,18 +4,18 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Stephen Santos
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+  author: Sun Tzu, The Art of War
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: vlan101.net
 
 
 # Following needed for disqus integration
@@ -27,7 +27,7 @@ disqus:
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url: https://vlan101.net
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
@@ -35,7 +35,7 @@ url:
 baseurl:
 
 # Change this to your google analytics ID
-google_analytics:
+google_analytics: UA-60428555-1
 
 # Contact form pupublic key
 contact_PK:
