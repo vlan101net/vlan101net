@@ -1,0 +1,11 @@
+I"�<p>A <strong>deterministic finite automata</strong> \(M\) is a 5-tuple \((Q, Σ, δ, q_0, F )\), where</p>
+
+<ol>
+  <li>\(Q\) is a finite set called the <strong>states</strong>,</li>
+  <li>\(Σ\) is a finite set called the <strong>alphabet</strong>,</li>
+  <li>\(δ : Q × Σ → Q\) is the <strong>transition function</strong>,</li>
+  <li>\(q_0 ∈ Q\) is the <strong>start state</strong>, and</li>
+  <li>\(F ⊆ Q\) is the set of <strong>accept states</strong>.</li>
+</ol>
+
+:ET
