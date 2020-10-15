@@ -176,4 +176,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Jekyll Working Folder
-.jekyll-cache/
+.jekyll-cache/*
